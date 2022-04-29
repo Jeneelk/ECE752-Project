@@ -1,0 +1,40 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:557: checking for a BSD compatible install
+configure:610: checking whether build environment is sane
+configure:667: checking whether make sets ${MAKE}
+configure:713: checking for working aclocal
+configure:726: checking for working autoconf
+configure:739: checking for working automake
+configure:752: checking for working autoheader
+configure:765: checking for working makeinfo
+configure:785: checking for gcc
+configure:898: checking whether the C compiler (gcc  ) works
+configure:914: gcc -o conftest    conftest.c  1>&5
+configure:911:1: warning: return type defaults to 'int' [-Wimplicit-int]
+  911 | main(){return(0);}
+      | ^~~~
+configure:940: checking whether the C compiler (gcc  ) is a cross-compiler
+configure:945: checking whether we are using GNU C
+configure:973: checking whether gcc accepts -g
+configure:1009: checking for c++
+configure:1041: checking whether the C++ compiler (c++  ) works
+configure:1057: c++ -o conftest    conftest.C  1>&5
+configure:1083: checking whether the C++ compiler (c++  ) is a cross-compiler
+configure:1088: checking whether we are using GNU C++
+configure:1116: checking whether c++ accepts -g
+configure:1149: checking for gdbm_open in -lgdbm
+configure:1197: checking for floor in -lm
+configure:1245: checking how to run the C preprocessor
+configure:1325: checking for ANSI C header files
+configure:1432: checking for sys/time.h
+configure:1432: checking for sys/timeb.h
+configure:1432: checking for unistd.h
+configure:1470: checking for working const
+configure:1545: checking whether time.h and sys/time.h may both be included
+configure:1581: checking return type of signal handlers
+configure:1624: checking for ftime
+configure:1624: checking for select
+configure:1624: checking for strstr
+configure:1624: checking for gettimeofday
